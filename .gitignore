@@ -1,0 +1,29 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.sample
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Embedding / model caches
+.fastembed_cache/
+.cache/
+local_cache/
+*.onnx
+
+# Node / frontend build artifacts
+node_modules/
+dist/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

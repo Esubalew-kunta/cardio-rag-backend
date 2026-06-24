@@ -1,0 +1,35 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+vite.config.js.timestamp-*.mjs
+vite.config.*.timestamp-*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gstack/
+
+# Loose source images + docs (web-ready copies live in public/images/)
+/doctor image.jpg
+/doctor image 2.jpg
+/Pr Doguet ( cardiac surgeon).jpeg
+/Dr Leslie Berdah Sadaoui.jpeg
+/Dr. Leslie Berdah Sadaoui.png
+/Ghita.jpeg
+/Maymouna.jpeg
+/Cardio Check-up.docx
