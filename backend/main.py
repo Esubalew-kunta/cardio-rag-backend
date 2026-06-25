@@ -52,7 +52,10 @@ async def lifespan(app: FastAPI):
 
     print("Connecting to Qdrant Cloud...")
     app.state.qdrant = QdrantClient(
-        url=config.QDRANT_URL, api_key=config.QDRANT_API_KEY, timeout=30
+        url=config.QDRANT_URL,
+        api_key=config.QDRANT_API_KEY,
+        timeout=30,
+        check_compatibility=False,
     )
 
     print("Initialising Anthropic client...")

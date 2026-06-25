@@ -32,14 +32,14 @@ def embed_query(model, text):
 
 def search_chunks(qdrant, vector, top_k=TOP_K, threshold=SIMILARITY_THRESHOLD):
     """Return up to top_k chunks above the similarity threshold."""
-    hits = qdrant.search(
+    result = qdrant.query_points(
         collection_name=COLLECTION_NAME,
-        query_vector=vector,
+        query=vector,
         limit=top_k,
         score_threshold=threshold,
         with_payload=True,
     )
-    return hits
+    return result.points
 
 
 def build_context(hits):
