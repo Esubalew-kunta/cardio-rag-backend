@@ -1,10 +1,12 @@
 """
 ingest.py — Cardio Check-up RAG knowledge base ingestion.
 
-Reads DOC_01–DOC_06 from knowledge_base/, splits each file into chunks by
-"## " heading, embeds every chunk locally with all-MiniLM-L6-v2, and uploads
-them to a Qdrant Cloud collection. DOC_07 is the system prompt and is NOT
-ingested.
+Reads every knowledge base document (DOC_01–DOC_06, DOC_08, DOC_09, DOC_10, …)
+from knowledge_base/, splits each file into chunks by "## " heading, embeds
+every chunk locally with all-MiniLM-L6-v2, and uploads them to a Qdrant Cloud
+collection. DOC_07 is the system prompt and is NOT ingested (it is injected
+verbatim by the backend instead). To add more docs later, just drop a new
+DOC_NN_*.md file in knowledge_base/ — it is picked up automatically.
 
 Setup:
     pip install fastembed qdrant-client python-dotenv tqdm
@@ -37,8 +39,12 @@ KB_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "knowledge_bas
 COLLECTION_NAME = "cardio_checkup_kb"
 EMBED_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"  # fastembed model id
 VECTOR_SIZE = 384  # all-MiniLM-L6-v2 output dimension
-# Only these six documents go into Qdrant. DOC_07 (system prompt) is excluded.
-INGEST_GLOB = "DOC_0[1-6]_*.md"
+# All DOC_*.md go into Qdrant EXCEPT the ones in EXCLUDE_DOCS.
+# DOC_07 (system prompt) is injected verbatim by the backend and must never be
+# embedded as context. Using a broad glob + explicit exclude keeps two-digit docs
+# (DOC_10, DOC_11, ...) working without fragile character-class patterns.
+INGEST_GLOB = "DOC_*.md"
+EXCLUDE_DOCS = {"DOC_07"}
 
 # Stable UUID namespace so re-ingesting the same chunk_id yields the same point id.
 UUID_NAMESPACE = uuid.UUID("00000000-0000-0000-0000-00000000ca12")
@@ -48,8 +54,8 @@ UUID_NAMESPACE = uuid.UUID("00000000-0000-0000-0000-00000000ca12")
 # Parsing
 # ----------------------------------------------------------------------------
 def source_doc_from_filename(path):
-    """DOC_01_practice_overview.md -> 'DOC_01'."""
-    m = re.search(r"(DOC_0\d)", os.path.basename(path))
+    """DOC_01_practice_overview.md -> 'DOC_01'; DOC_10_patient_questions.md -> 'DOC_10'."""
+    m = re.search(r"(DOC_\d{2})", os.path.basename(path))
     return m.group(1) if m else os.path.basename(path)
 
 
@@ -150,8 +156,9 @@ def main():
 
     # --- 1. READ + 2. SPLIT ------------------------------------------------
     files = sorted(glob.glob(os.path.join(KB_DIR, INGEST_GLOB)))
+    files = [f for f in files if source_doc_from_filename(f) not in EXCLUDE_DOCS]
     if not files:
-        print(f"ERROR: no DOC_01–DOC_06 markdown files found in {KB_DIR}")
+        print(f"ERROR: no ingestable DOC markdown files found in {KB_DIR}")
         sys.exit(1)
 
     all_chunks = []

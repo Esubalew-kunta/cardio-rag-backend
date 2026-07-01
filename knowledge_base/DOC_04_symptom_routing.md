@@ -80,7 +80,7 @@ All rhythm routing goes to **Dr Sana Amraoui** (cardiologue-rythmologue). The fi
 ## 4.3 — Chest symptoms (non-acute) / Symptômes thoraciques (non aigus)
 `chunk_id: doc04_chest` · `lang: fr,en`
 
-The first row is an emergency safeguard; acute chest pain is never routed to booking.
+The first row is an emergency safeguard; acute chest pain is never routed to booking. **General (non-rhythm) cardiology consultations here may be with Dr Amraoui or Dr Sofiane** (both cardiologists); rhythm-specific problems go to Dr Amraoui (see 4.2).
 
 ### FR
 | Symptôme / motif | Question de clarification | Médecin → Examen | Urgence |
@@ -188,7 +188,7 @@ Domain target = **Dr Hakem Rabiaa** (médecin vasculaire / angiologue). Surgical
 ## 4.7 — Prevention & general cardiovascular health / Prévention et santé cardiovasculaire
 `chunk_id: doc04_prevention` · `lang: fr,en`
 
-Domain target = **Dr Leslie Berdah Sadaoui** (médecin généraliste, nutrition/prévention), with documented overlaps where Dr Amraoui is the right choice — the clarifying question disambiguates.
+Domain target = **Dr Leslie Berdah Sadaoui** (médecin généraliste, nutrition/prévention), with documented overlaps where a cardiologist (**Dr Amraoui or Dr Sofiane**) is the right choice — the clarifying question disambiguates. Lifestyle/nutrition/weight → Berdah Sadaoui; a cardiovascular check-up or cardiac symptoms → a cardiologist.
 
 ### FR
 | Symptôme / motif | Question de clarification | Médecin → Examen | Urgence |
@@ -218,30 +218,68 @@ Domain target = **Dr Leslie Berdah Sadaoui** (médecin généraliste, nutrition/
 ## 4.8 — Sleep & breathing symptoms / Sommeil et respiration
 `chunk_id: doc04_sleep` · `lang: fr,en`
 
-Sleep-apnoea screening → **polygraphie nocturne** (performer **[NEEDS CLIENT CONFIRMATION]**). The first row is an emergency safeguard; nocturnal breathlessness can be cardiac.
+Sleep-apnoea screening → **polygraphie nocturne** (performed by **Dr Amraoui**, per the client's practitioner distribution). The first row is an emergency safeguard; nocturnal breathlessness can be cardiac.
 
 ### FR
 | Symptôme / motif | Question de clarification | Médecin → Examen | Urgence |
 |---|---|---|---|
 | Essoufflement soudain et sévère MAINTENANT / réveil en suffocation avec douleur thoracique | Aucune — n'attendez pas | Appelez le **15 (SAMU)** | 🚨 URGENCE |
-| Ronflements + somnolence diurne / pauses respiratoires constatées | Ronflements ? Pauses respiratoires constatées ? Somnolence dans la journée ? | Polygraphie nocturne — *performer : [NEEDS CLIENT CONFIRMATION]* | 📅 COURANT |
-| Sommeil non réparateur, maux de tête au réveil + facteurs de risque | Fatigue au réveil ? Hypertension ? Surpoids ? | Polygraphie nocturne — *performer : [NEEDS CLIENT CONFIRMATION]* | 📅 COURANT |
-| Dépistage d'apnée du sommeil (adressé) | Déjà évoqué par un médecin ? | Polygraphie nocturne — *performer : [NEEDS CLIENT CONFIRMATION]* | 📅 COURANT |
+| Ronflements + somnolence diurne / pauses respiratoires constatées | Ronflements ? Pauses respiratoires constatées ? Somnolence dans la journée ? | Polygraphie nocturne (Dr Amraoui) | 📅 COURANT |
+| Sommeil non réparateur, maux de tête au réveil + facteurs de risque | Fatigue au réveil ? Hypertension ? Surpoids ? | Polygraphie nocturne (Dr Amraoui) | 📅 COURANT |
+| Dépistage d'apnée du sommeil (adressé) | Déjà évoqué par un médecin ? | Polygraphie nocturne (Dr Amraoui) | 📅 COURANT |
 | Essoufflement la nuit, devoir dormir assis (possible origine cardiaque) | Gonflement des jambes ? Essoufflement à l'effort le jour ? | Dr Amraoui → Consultation ± ETT | ⚡ URGENT |
 
 ### EN
 | Symptom / reason | Clarifying question | Doctor → Exam | Urgency |
 |---|---|---|---|
 | Sudden, severe breathlessness NOW / waking up choking with chest pain | None — do not wait | Call **15 (SAMU)** | 🚨 EMERGENCY |
-| Snoring + daytime sleepiness / witnessed breathing pauses | Snoring? Witnessed breathing pauses? Daytime sleepiness? | Nocturnal polygraphy — *performer: [NEEDS CLIENT CONFIRMATION]* | 📅 ROUTINE |
-| Unrefreshing sleep, morning headaches + risk factors | Tired on waking? High blood pressure? Overweight? | Nocturnal polygraphy — *performer: [NEEDS CLIENT CONFIRMATION]* | 📅 ROUTINE |
-| Sleep-apnoea screening (referred) | Already raised by a doctor? | Nocturnal polygraphy — *performer: [NEEDS CLIENT CONFIRMATION]* | 📅 ROUTINE |
+| Snoring + daytime sleepiness / witnessed breathing pauses | Snoring? Witnessed breathing pauses? Daytime sleepiness? | Nocturnal polygraphy (Dr Amraoui) | 📅 ROUTINE |
+| Unrefreshing sleep, morning headaches + risk factors | Tired on waking? High blood pressure? Overweight? | Nocturnal polygraphy (Dr Amraoui) | 📅 ROUTINE |
+| Sleep-apnoea screening (referred) | Already raised by a doctor? | Nocturnal polygraphy (Dr Amraoui) | 📅 ROUTINE |
 | Breathlessness at night, needing to sleep sitting up (possible cardiac cause) | Leg swelling? Breathlessness on exertion in the daytime? | Dr Amraoui → consultation ± ETT | ⚡ URGENT |
 
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
+
+## 4.9 — Choosing the vascular Doppler exam / Choix de l'examen Doppler vasculaire
+`chunk_id: doc04_doppler_selection` · `lang: fr,en`
+
+Domain target = **Dr Hakem Rabiaa** (médecin vasculaire), who performs the vascular Doppler ultrasounds. These are non-urgent explorations on prescription; the first row is an acute-vascular safeguard. If surgery is later indicated, referral to Dr Taha (see 4.5).
+
+### FR
+| Motif / zone | Question de clarification | Médecin → Examen | Urgence |
+|---|---|---|---|
+| Jambe brutalement froide, pâle, douloureuse OU jambe soudain gonflée + essoufflement | Aucune — n'attendez pas | Appelez le **15 (SAMU)** | 🚨 URGENCE |
+| Douleurs/crampes des jambes à la marche (claudication) | Depuis quand ? Distance de marche ? Diabète, tabac ? | Dr Hakem → Doppler des artères des membres inférieurs | 📅 COURANT |
+| Dépistage risque d'AVC / plaques carotidiennes | Facteurs de risque ? Déjà détecté à l'écho ? | Dr Hakem → Doppler des troncs supra-aortiques (carotides) | 📅 COURANT |
+| Hypertension difficile à équilibrer (recherche cause rénale) | Sous plusieurs traitements ? Bilan rénal ? | Dr Hakem → Doppler des artères rénales | 📅 COURANT |
+| Dépistage d'anévrisme de l'aorte abdominale | Plus de 60 ans, tabac, antécédents familiaux ? | Dr Hakem → Doppler de l'aorte abdominale | 📅 COURANT |
+| Jambes lourdes, varices, suspicion de phlébite (non aiguë) | Gonflement ? Varices visibles ? Doppler déjà fait ? | Dr Hakem → Doppler veineux des membres inférieurs | 📅 COURANT |
+| Symptômes vasculaires des bras / mains | Depuis quand ? Effort particulier ? | Dr Hakem → Doppler des artères des membres supérieurs | 📅 COURANT |
+
+### EN
+| Reason / area | Clarifying question | Doctor → Exam | Urgency |
+|---|---|---|---|
+| Sudden cold, pale, painful leg OR sudden swollen leg + breathlessness | None — do not wait | Call **15 (SAMU)** | 🚨 EMERGENCY |
+| Leg pain/cramps when walking (claudication) | Since when? Walking distance? Diabetes, smoking? | Dr Hakem → lower-limb arterial Doppler | 📅 ROUTINE |
+| Stroke-risk / carotid-plaque screening | Risk factors? Already found on ultrasound? | Dr Hakem → carotid & supra-aortic Doppler | 📅 ROUTINE |
+| Hard-to-control high blood pressure (renal cause) | On several treatments? Kidney work-up? | Dr Hakem → renal artery Doppler | 📅 ROUTINE |
+| Abdominal aortic aneurysm screening | Over 60, smoking, family history? | Dr Hakem → abdominal aorta Doppler | 📅 ROUTINE |
+| Heavy legs, varicose veins, suspected phlebitis (non-acute) | Swelling? Visible varicose veins? Doppler already done? | Dr Hakem → lower-limb venous Doppler | 📅 ROUTINE |
+| Arm / hand vascular symptoms | Since when? Particular exertion? | Dr Hakem → upper-limb arterial Doppler | 📅 ROUTINE |
+
+> Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
+> Life-threatening emergency: call 15 (SAMU) — do not use online booking.
+
+---
+
+### Update note (2026-06-30, from client Notion inputs)
+- **Dr Sofiane added as a second cardiologist**: general (non-rhythm) cardiology, chest-pain and prevention routing now reads "Dr Amraoui or Dr Sofiane" (4.3, 4.7). Rhythm problems stay with Dr Amraoui (4.2).
+- **Polygraphie nocturne performer resolved → Dr Amraoui** (4.8).
+- **New chunk 4.9** maps vascular symptoms to the specific Doppler exam, all performed by **Dr Hakem Rabiaa** — this resolves the "who does the Doppler" question. Surgical escalation still goes to Dr Taha (4.5).
+- The Taha-vs-Hakem boundary is now clearer in principle (Hakem = Doppler / medical assessment; Taha = surgery), but per-condition surgical thresholds remain a clinical judgement — kept flagged below.
 
 ### Open flags in DOC_04 (for the Architect)
 - **Taha vs Hakem split** (per condition: aneurysm, arterial disease, carotid, varices, Doppler, venous, thromboembolic) — surgical vs non-surgical boundary unconfirmed (4.5, 4.6).

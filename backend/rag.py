@@ -31,7 +31,12 @@ def embed_query(model, text):
 
 
 def search_chunks(qdrant, vector, top_k=TOP_K, threshold=SIMILARITY_THRESHOLD):
-    """Return up to top_k chunks above the similarity threshold."""
+    """Return up to top_k chunks above the similarity threshold.
+
+    Uses query_points (the current qdrant-client API; .search() was removed
+    in qdrant-client 1.x). Returns a list of scored points, each carrying
+    .payload and .score.
+    """
     result = qdrant.query_points(
         collection_name=COLLECTION_NAME,
         query=vector,

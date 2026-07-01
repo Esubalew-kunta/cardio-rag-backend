@@ -18,20 +18,22 @@ Cardio Check-up · 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · 
 ## 2.2 — The team at a glance / L'équipe en bref
 `chunk_id: doc02_team_index` · `lang: fr,en`
 
-**FR —** L'équipe de Cardio Check-up réunit cinq praticiens de spécialités complémentaires :
+**FR —** L'équipe pluridisciplinaire de Cardio Check-up réunit des praticiens de spécialités complémentaires :
 - **Dr Sana Amraoui** — cardiologue et rythmologue (troubles du rythme cardiaque).
+- **Dr Sofiane** — cardiologue (cardiologie générale, prévention).
 - **Pr Fabien Doguet** — chirurgien cardiaque.
-- **Dr Leslie Berdah Sadaoui** — médecin généraliste (nutrition, prévention).
 - **Dr Adam Taha** — chirurgien vasculaire et endovasculaire.
-- **Dr Hakem Rabiaa** — médecin vasculaire (angiologue).
+- **Dr Hakem Rabiaa** — médecin vasculaire (angiologue), échographies Doppler vasculaires.
+- **Dr Leslie Berdah Sadaoui** — médecin généraliste (nutrition, prévention).
 Pour savoir quel médecin consulter selon vos symptômes, voir la table d'orientation (DOC_04).
 
-**EN —** The Cardio Check-up team brings together five practitioners with complementary specialties:
+**EN —** The multidisciplinary Cardio Check-up team brings together practitioners with complementary specialties:
 - **Dr Sana Amraoui** — cardiologist and heart-rhythm specialist (electrophysiologist).
+- **Dr Sofiane** — cardiologist (general cardiology, prevention).
 - **Pr Fabien Doguet** — cardiac surgeon.
-- **Dr Leslie Berdah Sadaoui** — general practitioner (nutrition, prevention).
 - **Dr Adam Taha** — vascular and endovascular surgeon.
-- **Dr Hakem Rabiaa** — vascular physician (angiologist).
+- **Dr Hakem Rabiaa** — vascular physician (angiologist), vascular Doppler ultrasound.
+- **Dr Leslie Berdah Sadaoui** — general practitioner (nutrition, prevention).
 To find which doctor to consult for your symptoms, see the routing table (DOC_04).
 
 ---
@@ -117,8 +119,8 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 **FR —**
 - **Nom & titre :** Dr Adam Taha.
 - **Spécialité :** chirurgien vasculaire et endovasculaire (chirurgie des vaisseaux — artères et veines).
-- **Ce qu'il prend en charge :** prise en charge chirurgicale et endovasculaire des maladies des vaisseaux. Détail des actes et sous-spécialités : **[NEEDS CLIENT CONFIRMATION]**.
-- **Quand le consulter :** lorsqu'une intervention sur les artères ou les veines est envisagée. Indications précises : **[NEEDS CLIENT CONFIRMATION]**. (Orientation détaillée : DOC_04.)
+- **Ce qu'il prend en charge :** prise en charge chirurgicale et endovasculaire des maladies des vaisseaux : chirurgie veineuse (traitement de l'insuffisance veineuse et des varices, y compris par voie endoveineuse), pose de prothèses endovasculaires (endoprothèses), chirurgie de l'aorte et chirurgie artérielle. Beaucoup de ces gestes utilisent des techniques mini-invasives ; une chirurgie conventionnelle reste possible dans les cas plus complexes.
+- **Quand le consulter :** lorsqu'une intervention sur les artères ou les veines est envisagée (varices, anévrisme, artériopathie, chirurgie de l'aorte). Ces situations font généralement suite à une évaluation vasculaire. (Orientation détaillée : DOC_04.)
 - **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Parcours & titres :** **[NEEDS CLIENT CONFIRMATION]** (profil détaillé non communiqué).
 - **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
@@ -127,8 +129,8 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 **EN —**
 - **Name & title:** Dr Adam Taha.
 - **Specialty:** vascular and endovascular surgeon (surgery of the blood vessels — arteries and veins).
-- **What he handles:** surgical and endovascular treatment of blood-vessel disease. Specific procedures and sub-specialties: **[NEEDS CLIENT CONFIRMATION]**.
-- **When to consult him:** when a procedure on the arteries or veins is being considered. Precise indications: **[NEEDS CLIENT CONFIRMATION]**. (Detailed routing: DOC_04.)
+- **What he handles:** surgical and endovascular treatment of blood-vessel disease: venous surgery (treatment of venous insufficiency and varicose veins, including endovenous techniques), endovascular stent-grafts (endoprostheses), aortic surgery and arterial surgery. Many of these use minimally invasive techniques; conventional surgery remains an option in more complex cases.
+- **When to consult him:** when a procedure on the arteries or veins is being considered (varicose veins, aneurysm, arterial disease, aortic surgery). These cases usually follow a vascular assessment. (Detailed routing: DOC_04.)
 - **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Background & credentials:** **[NEEDS CLIENT CONFIRMATION]** (detailed profile not provided).
 - **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
@@ -142,8 +144,8 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 **FR —**
 - **Nom & titre :** Dr Hakem Rabiaa.
 - **Spécialité :** médecin vasculaire (angiologue) — médecine des vaisseaux, sans chirurgie.
-- **Ce qu'il prend en charge :** exploration et suivi médical des maladies des artères et des veines. Détail des actes (par ex. écho-Doppler) et sous-spécialités : **[NEEDS CLIENT CONFIRMATION]**.
-- **Quand le consulter :** bilan ou suivi vasculaire non chirurgical (artères, veines, circulation). Indications précises : **[NEEDS CLIENT CONFIRMATION]**. (Orientation détaillée : DOC_04.)
+- **Ce qu'il prend en charge :** exploration et suivi médical des maladies des artères et des veines, notamment par échographie Doppler vasculaire : Doppler des troncs supra-aortiques (carotides), des artères des membres inférieurs et supérieurs, des artères rénales, de l'aorte abdominale, et Doppler veineux des membres inférieurs.
+- **Quand le consulter :** bilan ou suivi vasculaire non chirurgical (artères, veines, circulation), ou pour réaliser une échographie Doppler vasculaire sur prescription. (Orientation détaillée : DOC_04.)
 - **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Parcours & titres :** **[NEEDS CLIENT CONFIRMATION]** (profil détaillé non communiqué).
 - **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
@@ -152,8 +154,8 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 **EN —**
 - **Name & title:** Dr Hakem Rabiaa.
 - **Specialty:** vascular physician (angiologist) — medicine of the blood vessels, non-surgical.
-- **What he handles:** assessment and medical follow-up of artery and vein disease. Specific tests (e.g. Doppler ultrasound) and sub-specialties: **[NEEDS CLIENT CONFIRMATION]**.
-- **When to consult him:** non-surgical vascular assessment or follow-up (arteries, veins, circulation). Precise indications: **[NEEDS CLIENT CONFIRMATION]**. (Detailed routing: DOC_04.)
+- **What he handles:** assessment and medical follow-up of artery and vein disease, notably by vascular Doppler ultrasound: Doppler of the supra-aortic trunks (carotids), of the lower- and upper-limb arteries, of the renal arteries, of the abdominal aorta, and venous Doppler of the lower limbs.
+- **When to consult him:** non-surgical vascular assessment or follow-up (arteries, veins, circulation), or to have a vascular Doppler ultrasound on prescription. (Detailed routing: DOC_04.)
 - **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Background & credentials:** **[NEEDS CLIENT CONFIRMATION]** (detailed profile not provided).
 - **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
@@ -161,11 +163,41 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 
 ---
 
+## 2.8 — Dr Sofiane
+`chunk_id: doc02_sofiane` · `lang: fr,en`
+
+**FR —**
+- **Nom & titre :** Dr Sofiane. Nom de famille complet : **[NEEDS CLIENT CONFIRMATION]**.
+- **Spécialité :** cardiologue (cardiologie générale).
+- **Ce qu'il prend en charge :** consultation de cardiologie, bilan et suivi cardiovasculaire, prévention et facteurs de risque, hypertension artérielle, bilan de douleur thoracique. Réalise l'électrocardiogramme (ECG) et l'échographie cardiaque.
+- **Quand le consulter :** bilan cardiovasculaire, suivi d'une pathologie cardiaque, hypertension, douleur thoracique non urgente, dépistage et prise en charge des facteurs de risque. (Orientation détaillée : DOC_04.)
+- **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
+- **Parcours & titres :** **[NEEDS CLIENT CONFIRMATION]** (profil détaillé non communiqué).
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h). *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
+> Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
+
+**EN —**
+- **Name & title:** Dr Sofiane. Full surname: **[NEEDS CLIENT CONFIRMATION]**.
+- **Specialty:** cardiologist (general cardiology).
+- **What he handles:** cardiology consultation, cardiovascular check-up and follow-up, prevention and risk factors, high blood pressure, chest-pain assessment. Performs the electrocardiogram (ECG) and cardiac ultrasound.
+- **When to consult him:** cardiovascular check-up, follow-up of a heart condition, high blood pressure, non-urgent chest pain, screening and management of risk factors. (Detailed routing: DOC_04.)
+- **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
+- **Background & credentials:** **[NEEDS CLIENT CONFIRMATION]** (detailed profile not provided).
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm). *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
+> Life-threatening emergency: call 15 (SAMU) — do not use online booking.
+
+---
+
 ### Open flags in DOC_02 (for the Architect)
-- **Languages:** Pr Doguet (2.4), Dr Berdah Sadaoui (2.5), Dr Taha (2.6), Dr Hakem Rabiaa (2.7).
-- **Consulting presence/days at Cardio Check-up:** Dr Berdah Sadaoui, Dr Taha, Dr Hakem Rabiaa.
-- **Credentials/training:** Pr Doguet (beyond Massy), Dr Berdah Sadaoui (beyond ex-chef de clinique), Dr Taha (all), Dr Hakem Rabiaa (all).
-- **Detailed specialties / procedures / consult indications:** Dr Taha (2.6), Dr Hakem Rabiaa (2.7) — name + role only received.
+- **Languages:** Pr Doguet (2.4), Dr Taha (2.6), Dr Hakem Rabiaa (2.7), Dr Sofiane (2.8).
+- **Consulting presence/days at Cardio Check-up:** Dr Berdah Sadaoui, Dr Taha, Dr Hakem Rabiaa, Dr Sofiane.
+- **Credentials/training:** Pr Doguet (beyond Massy), Dr Berdah Sadaoui (beyond ex-chef de clinique), Dr Taha (all), Dr Hakem Rabiaa (all), Dr Sofiane (all).
+- **Identity:** Dr Sofiane — full surname and exact title (2.8).
+
+### Update note (2026-06-30, from client Notion inputs)
+- **New sixth practitioner added: Dr Sofiane** (2.8), second cardiologist — general cardiology, prevention, HTA, chest-pain assessment, ECG and cardiac ultrasound. Only "Dr Sofiane" (given name) was provided; surname, languages and credentials are flagged.
+- **Dr Taha (2.6) scope resolved** from the client's practitioner distribution: venous surgery, varicose-vein treatment, endovascular stent-grafts, aortic and arterial surgery.
+- **Dr Hakem Rabiaa (2.7) scope resolved**: vascular Doppler ultrasound (supra-aortic trunks/carotids, lower- and upper-limb arteries, renal arteries, abdominal aorta, lower-limb veins). He is the confirmed performer of the Doppler exams in DOC_03.
 
 ### Data-provenance note
-Profiles 2.6 and 2.7 were built from **name + one-line role only** (the only data that reached me). No detailed profile for Dr Taha or Dr Hakem Rabiaa was ever received — nothing was invented to fill the gap.
+Profiles 2.6, 2.7 and 2.8 were built from **name + role/scope only**. Specialty scopes for Taha and Hakem are now taken from the client's own practitioner distribution (Notion, 30 June 2026); detailed personal credentials for Taha, Hakem and Sofiane were not provided — nothing was invented to fill the gap.
