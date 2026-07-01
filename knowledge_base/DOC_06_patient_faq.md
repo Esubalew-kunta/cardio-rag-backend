@@ -111,10 +111,10 @@ Yes, a prescription (ordonnance) is required for examinations such as the Holter
 [NEEDS CLIENT CONFIRMATION] — please contact the secretariat at 07 55 50 52 58 for this information.
 
 **FR — Q14. Puis-je prendre une consultation directement moi-même ?**
-Oui, vous pouvez prendre une consultation directement, sans ordonnance, via Doctolib, par téléphone ou par e-mail. En revanche, les examens (Holter, MAPA, échographie…) se font, eux, sur prescription médicale, alors pensez à votre ordonnance si un examen est prévu.
+Oui, vous pouvez prendre une consultation directement, sans ordonnance, par téléphone ou par e-mail. En revanche, les examens (Holter, MAPA, échographie…) se font, eux, sur prescription médicale, alors pensez à votre ordonnance si un examen est prévu.
 
 **EN — Q14. Can I book a consultation directly myself?**
-Yes, you can book a consultation directly, without a prescription, via Doctolib, by phone or by e-mail. Examinations (Holter, MAPA, ultrasound…), however, are done on a medical prescription, so do bring your ordonnance if an exam is planned.
+Yes, you can book a consultation directly, without a prescription, by phone or by e-mail. Examinations (Holter, MAPA, ultrasound…), however, are done on a medical prescription, so do bring your ordonnance if an exam is planned.
 
 **FR — Q15. Serai-je remboursé(e) normalement si je viens sans passer par mon médecin traitant ?**
 [NEEDS CLIENT CONFIRMATION] — contactez le secrétariat au 07 55 50 52 58 pour cette information.
@@ -169,10 +169,10 @@ That depends on your contract: depending on your mutuelle, the supplement may be
 `chunk_id: doc06_booking_logistics` · `lang: fr,en`
 
 **FR — Q21. Comment prendre rendez-vous ?**
-Vous pouvez réserver en ligne via Doctolib (le lien est sur cardio-check-up.com), par téléphone au 07 55 50 52 58 du lundi au vendredi de 9h à 18h, ou par e-mail à secretariatdramraoui@myeva.ovh. Choisissez simplement le moyen le plus pratique pour vous.
+Vous pouvez réserver par téléphone au 07 55 50 52 58, du lundi au vendredi de 9h à 18h, ou par e-mail à secretariatdramraoui@myeva.ovh. Choisissez simplement le moyen le plus pratique pour vous.
 
 **EN — Q21. How do I book an appointment?**
-You can book online via Doctolib (the link is on cardio-check-up.com), by phone at 07 55 50 52 58 Monday to Friday 9 am–6 pm, or by e-mail at secretariatdramraoui@myeva.ovh. Just choose whichever is easiest for you.
+You can book by phone at 07 55 50 52 58, Monday to Friday 9 am–6 pm, or by e-mail at secretariatdramraoui@myeva.ovh. Just choose whichever is easiest for you.
 
 **FR — Q22. Comment annuler ou reporter un rendez-vous ?**
 Pour annuler ou reporter, contactez le secrétariat au 07 55 50 52 58 ou à secretariatdramraoui@myeva.ovh, le plus tôt possible. Le délai minimum requis avant le rendez-vous : [NEEDS CLIENT CONFIRMATION] — contactez le secrétariat au 07 55 50 52 58 pour cette information.

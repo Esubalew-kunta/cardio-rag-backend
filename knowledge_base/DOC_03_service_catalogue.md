@@ -2,7 +2,7 @@
 Cardio Check-up · Dr Sana Amraoui
 RAG knowledge base — each `##` section is one self-contained Qdrant chunk.
 Within each service chunk: the "What it is" field = general medical knowledge (definition only); all practice-specific facts (duration, prep, ordonnance policy, cost, performer) are either source-confirmed or flagged [NEEDS CLIENT CONFIRMATION]. The two are kept in separate fields, never blended.
-Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–18h) · secretariatdramraoui@myeva.ovh.
+Booking (all services): 07 55 50 52 58 (9h–18h) · secretariatdramraoui@myeva.ovh.
 
 ---
 
@@ -25,7 +25,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Ordonnance :** une ordonnance n'est pas nécessaire pour prendre une consultation. Modalités de remboursement / parcours de soins : voir DOC_05 et **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** apportez vos examens et ordonnances récents ainsi que la liste de vos médicaments. Autres consignes du cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** un cardiologue de l'équipe Cardio Check-up (voir DOC_02). Le médecin précis dépend du motif : **[NEEDS CLIENT CONFIRMATION]**.
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -35,7 +35,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Prescription:** an ordonnance is not required to book a consultation. Reimbursement / referral-pathway details: see DOC_05 and **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** bring your recent tests and prescriptions and a list of your medicines. Other practice instructions: **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** a cardiologist from the Cardio Check-up team (see DOC_02). The specific doctor depends on the reason: **[NEEDS CLIENT CONFIRMATION]**.
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -50,7 +50,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Ordonnance :** Une ordonnance (prescription médicale) est nécessaire pour cet examen. Acceptation sans ordonnance au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** aucune préparation particulière n'est généralement nécessaire. Consignes propres au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -60,7 +60,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Prescription:** A medical prescription (ordonnance) is required for this examination. Whether the practice accepts patients without a prescription: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** no special preparation is usually needed. Practice-specific instructions: **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -76,7 +76,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Préparation & contraintes :** 5 électrodes collées sur le thorax ; **pas de douche** (l'appareil n'est pas étanche) ; privilégiez des vêtements en coton peu décolletés ; tenez téléphones/tablettes à distance ; évitez bijoux au cou ; **ne pas arrêter l'appareil**. *(Source confirmée.)*
 - **Qui le réalise :** Dr Sana Amraoui.
 - **Retour du matériel & pénalités :** restitution à la date indiquée par l'assistante médicale ; **150 € par jour de retard** ; **500 € si l'appareil est restitué en mauvais état**. *(Source confirmée.)*
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -87,7 +87,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Preparation & constraints:** 5 electrodes stuck to the chest; **no showering** (the device is not waterproof); prefer cotton, not-too-low-cut clothing; keep phones/tablets away; avoid neck jewellery; **do not switch the device off**. *(Confirmed from source.)*
 - **Who performs it:** Dr Sana Amraoui.
 - **Device return & penalties:** return on the date set by the medical assistant; **€150 per day late**; **€500 if the device is returned damaged**. *(Confirmed from source.)*
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -103,7 +103,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Préparation & contraintes :** brassard placé sur le **bras non dominant** ; gardez le bras immobile pendant la mesure ; portez des manches larges ; **pas de douche** (appareil non étanche) ; portez un T-shirt par-dessus le tuyau la nuit. En cas d'inconfort, de bras engourdi ou douloureux, ôtez le brassard et contactez le médecin ; assistance au 07 55 50 52 58 (9h–18h). *(Source confirmée.)*
 - **Qui le réalise :** Dr Sana Amraoui.
 - **Retour du matériel & pénalités :** restitution à la date indiquée par l'assistante médicale ; **150 € par jour de retard** ; **500 € si l'appareil est restitué en mauvais état**. *(Source confirmée.)*
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -114,7 +114,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Preparation & constraints:** cuff placed on the **non-dominant arm**; keep the arm still during a measurement; wear loose sleeves; **no showering** (not waterproof); wear a T-shirt over the tubing at night. If the arm becomes numb, painful or uncomfortable, remove the cuff and contact the doctor; helpline 07 55 50 52 58 (9 am–6 pm). *(Confirmed from source.)*
 - **Who performs it:** Dr Sana Amraoui.
 - **Device return & penalties:** return on the date set by the medical assistant; **€150 per day late**; **€500 if the device is returned damaged**. *(Confirmed from source.)*
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -129,7 +129,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Ordonnance :** Une ordonnance (prescription médicale) est nécessaire pour cet examen. Acceptation sans ordonnance au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** aucune préparation particulière n'est généralement nécessaire. Consignes propres au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -139,7 +139,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Prescription:** A medical prescription (ordonnance) is required for this examination. Whether the practice accepts patients without a prescription: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** no special preparation is usually needed. Practice-specific instructions: **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -155,7 +155,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Préparation & contraintes :** l'appareil, léger, est posé le soir et restitué le lendemain matin ; il enregistre la respiration, l'oxygène du sang, le rythme cardiaque et les ronflements. Modalités précises (à domicile ou au cabinet, pose des capteurs) : **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui. *(Performer confirmé par la répartition praticiens de la cliente, 30 juin 2026.)*
 - **Retour du matériel & pénalités :** le boîtier de polygraphie (PGV) vous est confié et doit être restitué à la date indiquée ; **100 € par jour de retard** ; **500 € si l'appareil est restitué en mauvais état**. *(Source confirmée.)*
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -166,7 +166,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Preparation & constraints:** the light device is fitted in the evening and returned the next morning; it records breathing, blood oxygen, heart rhythm and snoring. Exact arrangements (at home or at the practice, fitting the sensors): **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui. *(Performer confirmed by the client's practitioner distribution, 30 June 2026.)*
 - **Device return & penalties:** the polygraphy recorder (PGV) is entrusted to you and must be returned on the set date; **€100 per day late**; **€500 if the device is returned damaged**. *(Confirmed from source.)*
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -181,7 +181,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Ordonnance :** Une ordonnance (prescription médicale) est nécessaire pour cet examen. Acceptation sans ordonnance au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** apportez vos examens récents et la liste de vos médicaments. Consignes propres au cabinet : **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -191,7 +191,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Prescription:** A medical prescription (ordonnance) is required for this examination. Whether the practice accepts patients without a prescription: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** bring your recent tests and a list of your medicines. Practice-specific instructions: **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **Booking:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **Booking:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -206,7 +206,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Modalités :** cet acte ne se réserve pas directement en ligne ; il est décidé par le cardiologue-rythmologue après consultation et bilan (indication médicale). Lieu de réalisation et modalités pratiques : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Premier rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Premier rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -216,7 +216,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **How it is arranged:** this procedure is not booked directly online; it is decided by the cardiologist-electrophysiologist after a consultation and assessment (medical indication). Where it is performed and practical details: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **First appointment:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **First appointment:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -231,7 +231,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Modalités :** cet acte ne se réserve pas directement en ligne ; il est décidé par le cardiologue-rythmologue après consultation et bilan (indication médicale). Lieu de réalisation et modalités pratiques : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Premier rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Premier rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -241,7 +241,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **How it is arranged:** this procedure is not booked directly online; it is decided by the cardiologist-electrophysiologist after a consultation and assessment (medical indication). Where it is performed and practical details: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **First appointment:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **First appointment:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -256,7 +256,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Modalités :** cet acte ne se réserve pas directement en ligne ; il est décidé par le cardiologue-rythmologue après consultation et bilan (indication médicale). Lieu de réalisation et modalités pratiques : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Premier rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Premier rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -266,7 +266,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **How it is arranged:** this procedure is not booked directly online; it is decided by the cardiologist-electrophysiologist after a consultation and assessment (medical indication). Where it is performed and practical details: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **First appointment:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **First appointment:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -281,7 +281,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **Modalités :** cet acte ne se réserve pas directement en ligne ; il est décidé par le cardiologue-rythmologue après consultation et bilan (indication médicale). Lieu de réalisation et modalités pratiques : **[NEEDS CLIENT CONFIRMATION]**.
 - **Préparation & contraintes :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Qui le réalise :** Dr Sana Amraoui.
-- **Premier rendez-vous :** Doctolib · 07 55 50 52 58 (9h–18h).
+- **Premier rendez-vous :** par téléphone au 07 55 50 52 58 (9h–18h) ou par e-mail.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -291,7 +291,7 @@ Booking (all services): Doctolib (cardio-check-up.com) · 07 55 50 52 58 (9h–1
 - **How it is arranged:** this procedure is not booked directly online; it is decided by the cardiologist-electrophysiologist after a consultation and assessment (medical indication). Where it is performed and practical details: **[NEEDS CLIENT CONFIRMATION]**.
 - **Preparation & constraints:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Who performs it:** Dr Sana Amraoui.
-- **First appointment:** Doctolib · 07 55 50 52 58 (9 am–6 pm).
+- **First appointment:** by phone at 07 55 50 52 58 (9 am–6 pm) or by e-mail.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---

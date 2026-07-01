@@ -4,8 +4,8 @@ RAG knowledge base — each `##` section is one self-contained Qdrant chunk, chu
 This document is the routing brain: it maps a patient's symptom to a doctor, an exam, an urgency level, and the clarifying question to ask. Cross-references: doctor details → DOC_02 · exam details → DOC_03.
 
 **Urgency legend (used in every chunk):**
-🚨 EMERGENCY — call 15 (SAMU) now, do NOT book · ⚡ URGENT — contact the secretariat the same day or next day · 📅 ROUTINE — standard Doctolib booking.
-**Légende d'urgence :** 🚨 URGENCE — appelez le 15 (SAMU) maintenant, ne pas réserver · ⚡ URGENT — contactez le secrétariat le jour même ou le lendemain · 📅 COURANT — réservation Doctolib standard.
+🚨 EMERGENCY — call 15 (SAMU) now, do NOT book · ⚡ URGENT — contact the secretariat the same day or next day · 📅 ROUTINE — standard booking by phone (07 55 50 52 58).
+**Légende d'urgence :** 🚨 URGENCE — appelez le 15 (SAMU) maintenant, ne pas réserver · ⚡ URGENT — contactez le secrétariat le jour même ou le lendemain · 📅 COURANT — réservation standard par téléphone (07 55 50 52 58).
 
 ---
 
@@ -196,7 +196,7 @@ Domain target = **Dr Leslie Berdah Sadaoui** (médecin généraliste, nutrition/
 | Bilan / check-up sans symptômes | S'agit-il d'un bilan hygiène de vie/prévention, ou avez-vous des symptômes cardiaques à explorer ? | Dr Berdah Sadaoui (check-up prévention) **ou** Dr Amraoui (bilan cardiovasculaire complet) | 📅 COURANT |
 | Nutrition / surpoids / perte de poids | Objectif ? Antécédents médicaux ? | Dr Berdah Sadaoui → Consultation | 📅 COURANT |
 | Facteurs de risque (cholestérol, tabac, sédentarité, diabète) | Lesquels ? Bilan sanguin récent ? | Dr Berdah Sadaoui → Consultation | 📅 COURANT |
-| Tension artérielle élevée à surveiller | Mesures à domicile ? Sous traitement ? Tension actuellement > 180/110 ou maux de tête brutaux ou soudains ? → appelez le 15 (SAMU) immédiatement. Sinon, prenez rendez-vous via Doctolib pour un suivi par MAPA. | Dr Amraoui → MAPA | 📅 COURANT |
+| Tension artérielle élevée à surveiller | Mesures à domicile ? Sous traitement ? Tension actuellement > 180/110 ou maux de tête brutaux ou soudains ? → appelez le 15 (SAMU) immédiatement. Sinon, prenez rendez-vous par téléphone au 07 55 50 52 58 pour un suivi par MAPA. | Dr Amraoui → MAPA | 📅 COURANT |
 | Antécédents familiaux de maladie cardiaque | Avez-vous des symptômes, ou est-ce un dépistage préventif ? | Dr Amraoui (si symptômes) **ou** Dr Berdah Sadaoui (si prévention/facteurs de risque) | 📅 COURANT |
 | Aptitude au sport / reprise du sport, dépistage sportif | Sport d'intensité ? Symptômes à l'effort ? Plus de 40 ans ? | Dr Berdah Sadaoui (prévention) **ou** Dr Amraoui (évaluation cardiaque : ECG/ETT si besoin) | 📅 COURANT |
 
@@ -206,7 +206,7 @@ Domain target = **Dr Leslie Berdah Sadaoui** (médecin généraliste, nutrition/
 | Check-up with no symptoms | Is this a lifestyle/prevention check-up, or do you have cardiac symptoms to investigate? | Dr Berdah Sadaoui (prevention check-up) **or** Dr Amraoui (complete cardiovascular bilan) | 📅 ROUTINE |
 | Nutrition / overweight / weight loss | Goal? Medical history? | Dr Berdah Sadaoui → consultation | 📅 ROUTINE |
 | Risk factors (cholesterol, smoking, inactivity, diabetes) | Which ones? Recent blood test? | Dr Berdah Sadaoui → consultation | 📅 ROUTINE |
-| High blood pressure to monitor | Home readings? On treatment? Is your BP currently >180/110, or do you have a sudden severe headache? → call 15 (SAMU) immediately. Otherwise, book via Doctolib for MAPA monitoring. | Dr Amraoui → MAPA | 📅 ROUTINE |
+| High blood pressure to monitor | Home readings? On treatment? Is your BP currently >180/110, or do you have a sudden severe headache? → call 15 (SAMU) immediately. Otherwise, book by phone at 07 55 50 52 58 for MAPA monitoring. | Dr Amraoui → MAPA | 📅 ROUTINE |
 | Family history of heart disease | Do you have symptoms, or is this preventive screening? | Dr Amraoui (if symptoms) **or** Dr Berdah Sadaoui (if prevention/risk factors) | 📅 ROUTINE |
 | Fitness for sport / return to sport, athlete screening | High-intensity sport? Symptoms on exertion? Over 40? | Dr Berdah Sadaoui (prevention) **or** Dr Amraoui (cardiac evaluation: ECG/ETT if needed) | 📅 ROUTINE |
 

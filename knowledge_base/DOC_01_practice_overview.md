@@ -99,13 +99,13 @@ To find which examination matches your symptoms, see the routing table (DOC_04).
 `chunk_id: doc01_booking_pointer` · `lang: fr,en`
 
 **FR —** Vous pouvez prendre rendez-vous avec Cardio Check-up :
-- **En ligne via Doctolib** — le lien de réservation est disponible sur cardio-check-up.com.
+- **Par e-mail** à secretariatdramraoui@myeva.ovh.
 - **Par téléphone** au 07 55 50 52 58 (9h–18h).
 - **Par e-mail** à secretariatdramraoui@myeva.ovh.
 Le détail du déroulement d'un rendez-vous, des documents à apporter et des coûts figure dans le guide de réservation (DOC_05). Rappel : la réservation en ligne ne convient pas aux urgences — en cas d'urgence vitale, appelez le 15.
 
 **EN —** You can book an appointment with Cardio Check-up:
-- **Online via Doctolib** — the booking link is on cardio-check-up.com.
+- **By e-mail** at secretariatdramraoui@myeva.ovh.
 - **By phone** at 07 55 50 52 58 (9 am–6 pm).
 - **By e-mail** at secretariatdramraoui@myeva.ovh.
 Full details of how an appointment works, what to bring, and costs are in the booking guide (DOC_05). Reminder: online booking is not for emergencies — for a life-threatening emergency, call 15.

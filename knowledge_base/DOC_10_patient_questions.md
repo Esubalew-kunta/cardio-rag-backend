@@ -342,16 +342,16 @@ Answer: bring your prescription, your carte Vitale and top-up insurance card, yo
 ## 10.21 (FR) Tarifs et remboursement
 `chunk_id: doc10_fees_fr` · `lang: fr`
 
-Questions de patients : combien coute la consultation, quels sont les tarifs, est-ce rembourse, vous etes conventionne, secteur 2, y a-t-il un depassement d'honoraires.
-Reponse : Cardio Check-up est conventionne en secteur 2 : l'Assurance Maladie rembourse sur la base du tarif conventionnel, et la difference peut etre prise en charge par votre mutuelle. Verifiez votre couverture avant le rendez-vous. Pour les montants precis, appelez le secretariat au 07 55 50 52 58 (9h a 18h).
+Questions de patients : combien coute une consultation, quel est le prix d'une consultation, le tarif d'une consultation, une consultation ca coute combien, faut-il payer, est-ce que la consultation est remboursee, quels sont vos tarifs, y a-t-il un depassement d'honoraires, vous etes conventionne secteur 2.
+Reponse : le prix exact d'une consultation ou d'un examen n'est pas indique ici, mais voici le principe : Cardio Check-up est conventionne en secteur 2. L'Assurance Maladie rembourse sur la base du tarif conventionnel, et la difference (le depassement d'honoraires) peut etre prise en charge, en tout ou partie, par votre mutuelle. Verifiez votre couverture avant le rendez-vous. Pour connaitre les montants precis, appelez le secretariat au 07 55 50 52 58 (9h a 18h) ou ecrivez a secretariatdramraoui@myeva.ovh.
 
 ---
 
 ## 10.21 (EN) Fees and reimbursement
 `chunk_id: doc10_fees_en` · `lang: en`
 
-Patient questions: how much is the consultation, what are the fees, is it reimbursed, are you conventionne, secteur 2, is there a fee supplement.
-Answer: Cardio Check-up operates under the French secteur 2 convention: public health insurance reimburses on the standard rate, and the difference may be covered by your top-up insurance (mutuelle). Check your cover before the appointment. For exact amounts, call the secretariat at 07 55 50 52 58 (9h to 18h).
+Patient questions: how much is a consultation, what is the price of a consultation, the cost of a consultation, how much do I pay, is the consultation reimbursed, what are your fees, is there a fee supplement, are you secteur 2.
+Answer: the exact price of a consultation or test is not listed here, but here is the principle: Cardio Check-up operates under the French secteur 2 convention. Public health insurance reimburses on the standard rate, and the difference (the fee supplement) may be covered, in full or in part, by your top-up insurance (mutuelle). Check your cover before the appointment. For exact amounts, call the secretariat at 07 55 50 52 58 (9h to 18h) or e-mail secretariatdramraoui@myeva.ovh.
 
 ---
 

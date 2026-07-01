@@ -18,13 +18,11 @@ Covers what a patient needs after being matched to a doctor and exam: how to boo
 `chunk_id: doc05_how_to_book` · `lang: fr,en`
 
 **FR —** Vous pouvez prendre rendez-vous avec Cardio Check-up de trois façons :
-- **En ligne via Doctolib** — le lien de réservation est disponible sur cardio-check-up.com (disponible 24h/24).
 - **Par téléphone** au 07 55 50 52 58, du lundi au vendredi de 9h à 18h.
 - **Par e-mail** à secretariatdramraoui@myeva.ovh.
 **Faut-il une ordonnance pour réserver ?** La plupart des examens cardiologiques se font sur prescription médicale (ordonnance) ; pensez à l'avoir pour votre rendez-vous (voir « Que faut-il apporter »). La possibilité de réserver **sans** ordonnance au cabinet : **[NEEDS CLIENT CONFIRMATION]**. La disponibilité de rendez-vous le jour même : **[NEEDS CLIENT CONFIRMATION]**. Pour savoir quel médecin et quel examen correspondent à votre situation, voir DOC_04. En cas d'urgence vitale, appelez le 15 — n'utilisez pas la réservation en ligne.
 
 **EN —** You can book an appointment with Cardio Check-up in three ways:
-- **Online via Doctolib** — the booking link is on cardio-check-up.com (available 24/7).
 - **By phone** at 07 55 50 52 58, Monday to Friday, 9 am–6 pm.
 - **By e-mail** at secretariatdramraoui@myeva.ovh.
 **Do I need a prescription to book?** Most cardiology examinations are done on a medical prescription (ordonnance); have it ready for your appointment (see "What to bring"). Whether you can book **without** a prescription: **[NEEDS CLIENT CONFIRMATION]**. Same-day appointment availability: **[NEEDS CLIENT CONFIRMATION]**. To find which doctor and exam fit your situation, see DOC_04. For a life-threatening emergency, call 15 — do not use online booking.

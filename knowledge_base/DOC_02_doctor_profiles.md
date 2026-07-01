@@ -2,7 +2,7 @@
 Cardio Check-up · Dr Sana Amraoui
 RAG knowledge base — each `##` section is one self-contained Qdrant chunk.
 Canonical location & booking block (used in every profile):
-Cardio Check-up · 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib (cardio-check-up.com) / secretariatdramraoui@myeva.ovh.
+Cardio Check-up · 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · secretariatdramraoui@myeva.ovh.
 
 ---
 
@@ -48,7 +48,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **Quand la consulter :** palpitations, cœur qui s'emballe ou bat de façon irrégulière, malaises, perte de connaissance, suivi d'un pacemaker ou d'un défibrillateur, bilan du rythme cardiaque. (Orientation détaillée : DOC_04.)
 - **Langues :** français et anglais.
 - **Parcours & titres :** cheffe de l'unité de rythmologie à l'Hôpital Américain de Paris ; formée à Bordeaux, à Londres (St Thomas) et à New York (Columbia) ; MBA en économie de la santé (London School of Economics) ; Chairperson de l'EHRA 2026 ; publications dans JACC Cardiovascular Imaging, Europace et Heart Rhythm.
-- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. **Second lieu de consultation :** Hôpital Américain de Paris, 84 Bd de la Saussaye, 92200 Neuilly-sur-Seine.
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · e-mail (secretariatdramraoui@myeva.ovh). **Second lieu de consultation :** Hôpital Américain de Paris, 84 Bd de la Saussaye, 92200 Neuilly-sur-Seine.
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -58,7 +58,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **When to consult her:** palpitations, a racing or irregular heartbeat, dizzy spells, loss of consciousness, pacemaker or defibrillator follow-up, heart-rhythm assessment. (Detailed routing: DOC_04.)
 - **Languages:** French and English.
 - **Background & credentials:** head of the cardiac-rhythm unit at the American Hospital of Paris; trained in Bordeaux, London (St Thomas) and New York (Columbia); MBA in Health Economics (London School of Economics); Chairperson of EHRA 2026; published in JACC Cardiovascular Imaging, Europace and Heart Rhythm.
-- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. **Second consulting location:** American Hospital of Paris, 84 Bd de la Saussaye, 92200 Neuilly-sur-Seine.
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · e-mail (secretariatdramraoui@myeva.ovh). **Second consulting location:** American Hospital of Paris, 84 Bd de la Saussaye, 92200 Neuilly-sur-Seine.
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -73,7 +73,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **Quand le consulter :** lorsqu'une intervention chirurgicale du cœur est envisagée — maladie d'une valve (mitrale ou aortique), pontage des artères du cœur, chirurgie de l'aorte. Ces situations font généralement suite à un bilan cardiologique. (Orientation détaillée : DOC_04.)
 - **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Parcours & titres :** Professeur des Universités–Praticien Hospitalier (PU-PH). Ancien chef de service de chirurgie cardiaque au CHU de Rouen. Ancien co-animateur du *Magazine de la Santé* (France 5). Auteur d'un ouvrage sur la reprise du sport après 40 ans. Directeur médical du 40ᵉ Marathon Des Sables Legendary. Exerce également à l'Hôpital Privé Jacques Cartier (Massy).
-- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail.
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · e-mail (secretariatdramraoui@myeva.ovh).
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -83,7 +83,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **When to consult him:** when heart surgery is being considered — valve disease (mitral or aortic), coronary artery bypass, surgery of the aorta. These cases usually follow a cardiology assessment. (Detailed routing: DOC_04.)
 - **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Background & credentials:** Professeur des Universités–Praticien Hospitalier (PU-PH — university professor and hospital consultant). Former head of the cardiac surgery department at Rouen University Hospital (CHU de Rouen). Former co-host of *Le Magazine de la Santé* (France 5). Author of a book on returning to sport after 40. Medical director of the 40th Marathon Des Sables Legendary. Also practises at Hôpital Privé Jacques Cartier (Massy).
-- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail.
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · e-mail (secretariatdramraoui@myeva.ovh).
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -98,7 +98,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **Quand la consulter :** conseils en nutrition, prise en charge du surpoids, prévention des facteurs de risque cardiovasculaire (tension, cholestérol, mode de vie), bilan de santé général. (Orientation détaillée : DOC_04.)
 - **Langues :** français, anglais et espagnol.
 - **Parcours & titres :** Cheffe de clinique assistante, AP-HP Cochin Port-Royal. Formation : DES de Médecine générale, Université Paris Cité (2022) ; DU de Nutrition, Université Paris Cité (2024) ; Master de psychologie clinique, Paris V (2013). Autres titres et affiliations hospitalières : **[NEEDS CLIENT CONFIRMATION]**.
-- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · e-mail (secretariatdramraoui@myeva.ovh). *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -108,7 +108,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **When to consult her:** nutrition advice, weight management, prevention of cardiovascular risk factors (blood pressure, cholesterol, lifestyle), general health check-up. (Detailed routing: DOC_04.)
 - **Languages:** French, English and Spanish.
 - **Background & credentials:** Cheffe de clinique assistante (assistant senior registrar), AP-HP Cochin Port-Royal. Education: DES in General Medicine, Université Paris Cité (2022); DU in Nutrition, Université Paris Cité (2024); Master's in Clinical Psychology, Paris V (2013). Other credentials and hospital affiliations: **[NEEDS CLIENT CONFIRMATION]**.
-- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · e-mail (secretariatdramraoui@myeva.ovh). *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -123,7 +123,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **Quand le consulter :** lorsqu'une intervention sur les artères ou les veines est envisagée (varices, anévrisme, artériopathie, chirurgie de l'aorte). Ces situations font généralement suite à une évaluation vasculaire. (Orientation détaillée : DOC_04.)
 - **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Parcours & titres :** **[NEEDS CLIENT CONFIRMATION]** (profil détaillé non communiqué).
-- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · e-mail (secretariatdramraoui@myeva.ovh). *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -133,7 +133,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **When to consult him:** when a procedure on the arteries or veins is being considered (varicose veins, aneurysm, arterial disease, aortic surgery). These cases usually follow a vascular assessment. (Detailed routing: DOC_04.)
 - **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Background & credentials:** **[NEEDS CLIENT CONFIRMATION]** (detailed profile not provided).
-- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · e-mail (secretariatdramraoui@myeva.ovh). *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
@@ -148,7 +148,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **Quand le consulter :** bilan ou suivi vasculaire non chirurgical (artères, veines, circulation), ou pour réaliser une échographie Doppler vasculaire sur prescription. (Orientation détaillée : DOC_04.)
 - **Langues :** **[NEEDS CLIENT CONFIRMATION]**.
 - **Parcours & titres :** **[NEEDS CLIENT CONFIRMATION]** (profil détaillé non communiqué).
-- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · Doctolib / e-mail. *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
+- **Lieu & rendez-vous :** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9h–18h) · e-mail (secretariatdramraoui@myeva.ovh). *(Présence/jours de consultation au sein de Cardio Check-up : [NEEDS CLIENT CONFIRMATION].)*
 > Urgence vitale : appelez le 15 (SAMU) — ne pas utiliser la réservation en ligne.
 
 **EN —**
@@ -158,7 +158,7 @@ To find which doctor to consult for your symptoms, see the routing table (DOC_04
 - **When to consult him:** non-surgical vascular assessment or follow-up (arteries, veins, circulation), or to have a vascular Doppler ultrasound on prescription. (Detailed routing: DOC_04.)
 - **Languages:** **[NEEDS CLIENT CONFIRMATION]**.
 - **Background & credentials:** **[NEEDS CLIENT CONFIRMATION]** (detailed profile not provided).
-- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · Doctolib / e-mail. *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
+- **Location & booking:** Cardio Check-up, 29 rue Bayen, 75017 Paris · +33 7 55 50 52 58 (9 am–6 pm) · e-mail (secretariatdramraoui@myeva.ovh). *(Consulting presence/days at Cardio Check-up: [NEEDS CLIENT CONFIRMATION].)*
 > Life-threatening emergency: call 15 (SAMU) — do not use online booking.
 
 ---
